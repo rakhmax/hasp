@@ -1,16 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace HSIS_lab_1
+namespace Rakhmax
 {
-    static class Program
+    static class Programs
     {
-        /// <summary>
-        /// Главная точка входа для приложения.
-        /// </summary>
         [STAThread]
         static void Main()
         {
